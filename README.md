@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **2020bcs028@sggs.ac.in**
 
-- ⚡ Fun fact **I think I am in simulation**
+- ⚡ Fun fact **I think I am in the Matrix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
