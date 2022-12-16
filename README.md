@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikam24" alt="nikam24" /></a> </p>
 
-- 🔭 I’m currently working on [Huffman File Compressor](https://github.com/nikam24/File-Compressor-Using-Huffman-Encoding/tree/main/Huffman%20File%20Compression%20Project)
+- 🔭 I’m currently working on [Some Cool Machine Learning Projects](https://github.com/nikam24/File-Compressor-Using-Huffman-Encoding/tree/main/Huffman%20File%20Compression%20Project)
 
 - 🌱 I’m currently learning **DSA MACHINE LEARNING DATA SCIENCE REACTJS NODEJS RESTAPI HTTP**
 
