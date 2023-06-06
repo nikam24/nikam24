@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Problem solving and development.**
 
-- 📫 How to reach me **2020bcs028@sggs.ac.in**
+- 📫 How to reach me [https://prathamnikam.netlify.app](https://prathamnikam.netlify.app/)
 
 - ⚡ Fun fact **I think I am in the Matrix**
 
